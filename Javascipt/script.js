@@ -2,12 +2,12 @@ const music = document.getElementById("backgroundMusic");
 const musicButton = document.getElementById("musicButton");
 
 const songs = [
-    "AUDIO/music1.mp3",
-    "AUDIO/music2.mp3",
-    "AUDIO/music3.mp3",
-    "AUDIO/music4.mp3",
-    "AUDIO/music5.mp3",
-    "AUDIO/music6.mp3"
+    "Audio/music1.mp3",
+    "Audio/music2.mp3",
+    "Audio/music3.mp3",
+    "Audio/music4.mp3",
+    "Audio/music5.mp3",
+    "Audio/music6.mp3"
 ];
 
 let currentSong = -1;
